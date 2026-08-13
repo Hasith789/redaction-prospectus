@@ -2,4 +2,4 @@ python-docx
 spacy
 Faker
 pytest
-streamlit
+streamlit==1.61.1
