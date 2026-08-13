@@ -1,0 +1,5 @@
+python-docx
+spacy
+Faker
+pytest
+streamlit
